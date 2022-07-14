@@ -10,7 +10,6 @@
 🌱 I’m currently an undergrad in Computer Science Engineering </br>
 🔭 I’m currently working on Web development| JAVA </br>
 🎓 I’m an Frontend Developer|Learner </br>
-👯 I’m looking to collaborate on Open Source </br>
 📫 How to reach me: mantripalak1712@gmail.com </br>
 ⚡ Fun fact: I love sketching and things related to space #NASA
 
