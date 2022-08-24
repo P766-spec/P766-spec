@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/palak-mantri-6b47a9207/" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="Palak Mantri" height="50" width="50"/></a>
 <a href="https://twitter.com/PalakMantri1?s=08" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter.png" alt="Palak" height="50" width="50"/></a>
 <a href="https://mantri.hashnode.dev">
-  <img align="left" width="30px" padding="5px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+  <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="50" width="50" />
 </a>
 
 
