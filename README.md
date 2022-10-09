@@ -7,6 +7,7 @@
 <a href="https://mantri.hashnode.dev">
   <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="45" width="45" />
 </a>
+<a href="https://www.hackerrank.com/mantripalak1712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mantripalak1712" height="45" width="45" /></a>
 
 
 ### About Me 🚀
