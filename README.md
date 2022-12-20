@@ -11,7 +11,7 @@
 
 
 ### About Me 🚀
-👩You can check out my portfolio <a href="https://portfolio-p766-spec.vercel.app/" target="_blank">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
+👩You can check out my portfolio <a href="https://portfolio-p766-spec.vercel.app/" target="_blank">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"> </br>
 🌱 I’m currently an undergrad in Computer Science Engineering </br>
 🔭 I’m currently working on Web development| JAVA </br>
 🎓 I’m an Frontend Developer|Learner </br>
