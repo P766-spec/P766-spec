@@ -1,5 +1,5 @@
 ## Hey there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Palak!
-<img align="center" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="60">
+<img align="center" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="500">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
