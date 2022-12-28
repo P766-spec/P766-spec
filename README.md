@@ -14,7 +14,7 @@
 ### About Me 🚀
 👩You can check out my portfolio <a href="https://portfolio-p766-spec.vercel.app/" target="_blank">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"> </br>
 🌱 I’m currently an undergrad in Computer Science Engineering </br>
-🔭 I’m currently working on Web development| JAVA </br>
+🔭 I’m currently working on Web development| JAVA| DSA </br>
 🎓 I’m an Frontend Developer|Learner </br>
 📫 How to reach me: mantripalak1712@gmail.com </br>
 ⚡ Fun fact: I love sketching and things related to space #NASA
